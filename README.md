@@ -13,21 +13,12 @@ A simple and clean web application built using HTML, CSS, and JavaScript that co
 5. ✅ Simple and responsive UI
 
 🌐 Live Demo
-🔗 View Live Demo
-
-(Replace # with your live hosted URL — e.g., GitHub Pages, Netlify, Vercel, etc.)
+🔗 https://shashank1220.github.io/TEXT-TO-SPEECH-CONVERTOR/
 
 🛠️ Technologies Used
 1. HTML5 – Structure
 2. CSS3 – Styling
 3. JavaScript – Logic
-4. 
-📁 Project Structure
-📦 text-to-speech-converter/
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┗ 📜 README.md
 
 🙌 Contributing
 Have ideas or want to improve this project? Feel free to contribute!
